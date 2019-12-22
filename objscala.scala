@@ -326,7 +326,7 @@ object objscala {
 						println(list3)
 						println(list4)
 
-						println(list.contains(2))
+					Println("Edited")	println(list.contains(2))
 
 						println(list4.head)
 						list4.tail.foreach(println)
