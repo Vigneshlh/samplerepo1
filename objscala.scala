@@ -326,7 +326,7 @@ object objscala {
 						println(list3)
 						println(list4)
 
-					Println("Edited")	println(list.contains(2))
+						println(list.contains(2))
 
 						println(list4.head)
 						list4.tail.foreach(println)
@@ -471,6 +471,8 @@ object objscala {
 	// Also we can define the same function in the short form assigned to a variable called as anonymous functions
 	var sub = (a:Int,b:Int) => a - b
 
+	Println("Edited for master")
+	Println("Edited for branch")
 
 }
 
